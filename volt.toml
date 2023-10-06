@@ -4,5 +4,5 @@ description = "A true black theme with tasteful forest green accents."
 icon = "icon.png"
 version = "0.1.0"
 author = "Nota"
-repository = "https://github.com/ItzSwirlz/nord-lapce"
+repository = "https://github.com/Notiee/Forest-Night-Lapce"
 color-themes = ["forest-night.toml"]
